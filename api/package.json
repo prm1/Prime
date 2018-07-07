@@ -1,0 +1,28 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "primes",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prm1/Prime.git"
+  },
+  "author": "Paz Tamari & Linoy Israeli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prm1/Prime/issues"
+  },
+  "homepage": "https://github.com/prm1/Prime#readme",
+  "dependencies": {
+    "global": "^4.3.2",
+    "mongodb": "^3.1.1",
+    "yarn": "^1.7.0"
+  },
+  "devDependencies": {
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2"
+  }
+}
